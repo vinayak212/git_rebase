@@ -1,3 +1,4 @@
 this is devops course
 Linux
 jenkins-main
+Jenkins node setup
